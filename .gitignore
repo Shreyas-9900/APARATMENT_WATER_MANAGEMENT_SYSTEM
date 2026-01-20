@@ -1,0 +1,12 @@
+# Virtual environment
+server/venv/
+
+# SQLite database (optional now, good practice)
+server/billing.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
